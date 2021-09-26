@@ -1,5 +1,5 @@
 # Purpose of project
-The main purpose of this project to demonstrate how we can implement Redux architecture in our swiftui project. In this project i used MovieDB(TMDB) API Firebase, URLSession and SwiftUI etc. I am 100% sure this project will help to understand the Redux, because in this project pretty simple to understand. once debug this project in your machine.
+The main purpose of this project to demonstrate how we can implement Redux architecture in our swiftui project. In this project i used MovieDB(TMDB) API Firebase, URLSession and SwiftUI etc. I am 100% sure this project will help to understand the Redux, because this project pretty simple to understand. once debug this project in your machine.
 
 # Demo Video
 https://user-images.githubusercontent.com/66344914/134793414-a5c5223e-1dc0-429b-ba53-9331134c1fb3.mp4
@@ -22,3 +22,5 @@ Store: The store holds the entire App State and receives requests to change the 
 Actions: These are simple objects that describe what the system can do. These objects can carry information or not, depending on the case. They are dispatched by the View layer as intentions to change the state of the application.
 # What is Reducers?
 Reducers: This is where we develop the main logic of the application. Reducers must be pure functions with no side effects and must be synchronous. The reducers take the action and perform the actual state-change.	
+# What is Middleware?
+Redux middleware is a snippet of code that provides a third-party extension point between dispatching an action and the moment it reaches the reducers.
