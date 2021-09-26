@@ -12,7 +12,7 @@ Redux is the implementation of an architectural software pattern that prioritize
 
 # Let's Understand Flow of Redux
 Redux follows the unidirectional data flow. It means that your application data will follow in one-way binding data flow. See this 
-https://res.cloudinary.com/practicaldev/image/fetch/s--m5BdPzhS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/riadAin.gif
+![Flow of Redux](https://user-images.githubusercontent.com/66344914/134794011-e505cf21-8008-484d-8b4e-564a32a9f7cc.gif)
 
 # Now What is State?
 State: The state represents the state of your app. States contain substates like a navigationState (e. g. which view is currently active).
