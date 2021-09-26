@@ -1,5 +1,5 @@
 # Purpose of project
-The main purpose of this project to demonstrate how we can implement Redux architecture in our swiftui project. In this project i used MovieDB(TMDB) API Firebase, URLSession and SwiftUI etc. I am 100% sure this project will help to understand the Redux, because this project pretty simple to understand. once debug this project in your machine.
+The main purpose of this project to demonstrate how we can implement Redux architecture in our swiftui project. In this project i used MovieDB(TMDB) API, Firebase, URLSession and SwiftUI etc. I am 100% sure this project will help to understand the Redux, because this project pretty simple to understand. once debug this project in your machine.
 
 # Demo Video
 https://user-images.githubusercontent.com/66344914/134793414-a5c5223e-1dc0-429b-ba53-9331134c1fb3.mp4
